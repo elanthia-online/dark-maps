@@ -1,0 +1,2 @@
+# let's gussy this up a bit for a working zip / tarball release
+.git*           export-ignore
