@@ -1,5 +1,5 @@
 # Gemstone IV Dark Maps
-A collection of the various graphical maps made for dark mode, bundled and released by Dendum.
+A collection of the various graphical maps made for dark mode, bundled and released by Dendum and mirrored here.
 
 To install, please perform the following steps.
 * Download the latest [release](https://github.com/elanthia-online/dark-maps/releases/latest) to your computer
